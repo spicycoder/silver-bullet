@@ -10,7 +10,6 @@
 2. Angular
 3. React
 4. Vue
-5. Svelte ...
 
 ---
 
