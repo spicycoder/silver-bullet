@@ -47,3 +47,5 @@ Thumbs.db
 
 # Stencil components
 /src/public/
+
+package-lock.json

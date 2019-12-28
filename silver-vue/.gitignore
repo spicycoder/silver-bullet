@@ -22,3 +22,5 @@ yarn-error.log*
 
 # Stencil components
 /public/silver-components
+
+package-lock.json

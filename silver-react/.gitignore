@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Stencil components
 /public/static/js/
+
+package-lock.json
