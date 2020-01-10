@@ -11,7 +11,7 @@ import { HTMLStencilElement, JSXBase } from '@stencil/core/internal';
 
 export namespace Components {
   interface SilverCard {
-    'title': string;
+    'cardTitle': string;
   }
 }
 
@@ -30,7 +30,7 @@ declare global {
 
 declare namespace LocalJSX {
   interface SilverCard {
-    'title'?: string;
+    'cardTitle'?: string;
   }
 
   interface IntrinsicElements {

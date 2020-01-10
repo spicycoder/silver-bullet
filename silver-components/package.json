@@ -1,6 +1,6 @@
 {
-  "name": "silver-components",
-  "version": "0.0.1",
+  "name": "silver-components-test",
+  "version": "0.0.0",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

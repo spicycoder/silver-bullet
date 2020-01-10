@@ -6,13 +6,13 @@ import { Component, h, Prop } from '@stencil/core';
   shadow: true
 })
 export class Card {
-  @Prop() title: string;
+  @Prop() cardTitle: string;
 
   render() {
       return (
           <div>
               <h2>
-                  {this.title}
+                  {this.cardTitle}
               </h2>
               <slot />
           </div>
