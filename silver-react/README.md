@@ -11,7 +11,7 @@ npx create-react-app
 ## Install & Save Component Library
 
 ```sh
-npm i -g silver-components
+npm i silver-components
 ```
 
 ---
